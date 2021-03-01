@@ -1,0 +1,23 @@
+Category, Item Description, Item Code, Price, Discount Amt
+Vegetable , Red Potatoes,83505,5.49,0
+Vegetable , Green Beans,1089513,6.69,0
+Vegetable , Ham Rolls,868210,0,0
+Vegetable , Carrots,34567,3,0
+Vegetable , Tomato,45672,2,0
+  ,,,,
+Electronics, Speakers,222256,100,10
+Electronics, Google Home Hub,45632,249,0
+Electronics, Acer chromebook,34532,300,0
+  ,,,,
+Clothing, Shirt,3334523,17,10
+Clothing, Socks,234456,8,0
+Clothing, Pants,445356,20,5
+
+Clothing, Shoes,324539,30,0
+
+  ,,,,
+,,,,
+Toiletries, Toilet Paper,23234,15,0
+Toiletries, Toothpaste,20010,12,5
+Toiletries,Shaving Cream,900023,20,0
+Toiletries,Shaving Blade,76543,30,5

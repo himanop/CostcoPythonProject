@@ -1,0 +1,3 @@
+import ReceiptManagement
+
+ReceiptManagement.main()

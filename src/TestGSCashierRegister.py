@@ -1,0 +1,3 @@
+import GSCashierRegister
+
+GSCashierRegister.main()
