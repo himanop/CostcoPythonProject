@@ -1,7 +1,7 @@
 # CostcoPythonProject
 ## Costco billing system (Python)
-This project replicates costco billing system. 
-Developed as part of proof of concept for python command prompt.
+This project replicates costco billing system.  
+Developed as part of proof of concept for python command prompt.  
 Following featuers are supported: 
 Creating and deleting cashiers
 Creating and printing receipts 
