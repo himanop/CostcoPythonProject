@@ -9,4 +9,4 @@ Buying different items of different quantity
 Printing receipts of a specific member 
 Printing all receipts
 This project was initally checked in on Bitbucket  
-Authors: Himanshu Singh and Girija Singh
+Author: Himanshu Singh
